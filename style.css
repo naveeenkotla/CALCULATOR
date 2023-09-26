@@ -1,0 +1,44 @@
+html {
+  font-size: 20px;
+  background-color: #851944;
+  color: whitesmoke;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #851944;
+}
+
+.buttons {
+  width: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 5px;
+  background-color: #952b1d;
+  border-color: whitesmoke;
+  color: whitesmoke;
+}
+
+#eq {
+  padding-right: 30px;
+  padding-left: 30px;
+  font-size: 25px;
+}
+
+#ma {
+  margin-bottom: 40px;
+  background-color: #851944;
+
+}
+
+#re {
+  background-color: #952b1d;
+  border-color: white;
+  color: whitesmoke;
+  height: 70px;
+  font-size: 20px;
+}
